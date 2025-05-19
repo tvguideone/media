@@ -1,1 +1,484 @@
-
+[
+  {
+    "id": "tntsports1",
+    "channel": [
+      "https://live_tv.starcdnup.com/TNT_Sports_1/index.m3u8",
+      "https://live_tv.starcdnup.com/TNT_Sports_1_BU/index.m3u8"
+    ]
+  },
+  {
+    "id": "tntsports2",
+    "channel": [
+      "https://live_tv.starcdnup.com/TNT_Sports_2/index.m3u8",
+      "https://live_tv.starcdnup.com/TNT_Sports_2_BU/index.m3u8"
+    ]
+  },
+  {
+    "id": "tntsports3",
+    "channel": [
+      "https://live_tv.starcdnup.com/TNT_Sports_3/index.m3u8",
+      "https://live_tv.starcdnup.com/TNT_Sports_3_BU/index.m3u8"
+    ]
+  },
+  {
+    "id": "tntsports4",
+    "channel": [
+      "https://live_tv.starcdnup.com/TNT_Sports_4/index.m3u8",
+      "https://live_tv.starcdnup.com/TNT_Sports_4_BU/index.m3u8"
+    ]
+  },
+  {
+    "id": "skysportsfootball",
+    "channel": [
+      "https://live_tv.starcdnup.com/Sky_Sports_Football_Live_TV/index.m3u8",
+      "https://live_tv.starcdnup.com/Sky_Sports_Football_BU/index.m3u8"
+    ]
+  },
+  {
+    "id": "skysportsmainevent",
+    "channel": [
+      "https://live_tv.starcdnup.com/Sky_Sports_Main_Event/index.m3u8",
+      "https://live_tv.starcdnup.com/Sky_Sports_Main_Event_BU/index.m3u8"
+    ]
+  },
+  {
+    "id": "skysportspremierleague",
+    "channel": [
+      "https://live_tv.starcdnup.com/Sky_Sports_Premier_League/index.m3u8",
+      "https://live_tv.starcdnup.com/Sky_Sports_Premier_League_BU/index.m3u8"
+    ]
+  },
+  {
+    "id": "skysportsaction",
+    "channel": [
+      "https://live_tv.starcdnup.com/Sky_Sports_Action_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "skysportsmix",
+    "channel": [
+      "https://live_tv.starcdnup.com/Sky_Sports_Mix_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "skysportsarena",
+    "channel": [
+      "https://live_tv.starcdnup.com/Sky_Sports_Arena_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "skysportsnews",
+    "channel": [
+      "https://live_tv.starcdnup.com/Sky_Sports_News_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "skysportscricket",
+    "channel": [
+      "https://live_tv.starcdnup.com/Sky_Sports_Cricket_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "skysportstennis",
+    "channel": [
+      "https://live_tv.starcdnup.com/Sky_Sports_Tennis/index.m3u8"
+    ]
+  },
+  {
+    "id": "skysportsf1",
+    "channel": [
+      "https://live_tv.starcdnup.com/Sky_Sports_F1_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "skysportsgolf",
+    "channel": [
+      "https://live_tv.starcdnup.com/Sky_Sports_Golf_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "skysportsracing",
+    "channel": [
+      "https://live_tv.starcdnup.com/Sky_Sports_Racing_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "skysportsdarts",
+    "channel": [
+      "https://live_tv.starcdnup.com/Sky_Sports_Darts/index.m3u8",
+      "https://live_tv.starcdnup.com/Sky_Sports_Darts_BU/index.m3u8"
+    ]
+  },
+  {
+    "id": "beinsportsusa",
+    "channel": [
+      "https://live_tv.starcdnup.com/Bein_Sports_USA_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "tennischannel",
+    "channel": [
+      "https://live_tv.starcdnup.com/Tennis_Channel_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "laligatvhd",
+    "channel": [
+      "https://live_tv.starcdnup.com/La_Liga_TV_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "hbo1",
+    "channel": [
+      "https://live_tv.starcdnup.com/HBO_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "hbo2",
+    "channel": [
+      "https://live_tv.starcdnup.com/HBO_2_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "discoverychannel",
+    "channel": [
+      "https://live_tv.starcdnup.com/Discovery_Channel_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "discoverylife",
+    "channel": [
+      "https://live_tv.starcdnup.com/Discovery_Life_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "cinemaxwest",
+    "channel": [
+      "https://live_tv.starcdnup.com/Cinemax_West_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "greatmovies",
+    "channel": [
+      "https://live_tv.starcdnup.com/UK_Great_Movies_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "skycinemacomedy",
+    "channel": [
+      "https://live_tv.starcdnup.com/UK_Sky_Cinema_Comedy_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "skycinemafamily",
+    "channel": [
+      "https://live_tv.starcdnup.com/UK_Sky_Cinema_Family_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "cartoonnetwork",
+    "channel": [
+      "https://live_tv.starcdnup.com/UK_Cartoon_Network_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "virgin2",
+    "channel": [
+      "https://live_tv.starcdnup.com/UK_Virgin_2/index.m3u8"
+    ]
+  },
+  {
+    "id": "virgin3",
+    "channel": [
+      "https://live_tv.starcdnup.com/UK_Virgin_3/index.m3u8"
+    ]
+  },
+  {
+    "id": "virgin1",
+    "channel": [
+      "https://live_tv.starcdnup.com/UK_Virgin_1/index.m3u8"
+    ]
+  },
+  {
+    "id": "beinsportsenglish2",
+    "channel": [
+      "https://live_tv.starcdnup.com/Bein_Sports_English_2_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "supersportpremierleague",
+    "channel": [
+      "https://live_tv.starcdnup.com/SuperSport_Premier_League_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "supersportlaliga",
+    "channel": [
+      "https://live_tv.starcdnup.com/SuperSport_LaLiga_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "supersportaction",
+    "channel": [
+      "https://live_tv.starcdnup.com/SuperSport_Action_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "supersportblitz",
+    "channel": [
+      "https://live_tv.starcdnup.com/SuperSport_Blitz_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "supersportcricket",
+    "channel": [
+      "https://live_tv.starcdnup.com/SuperSport_Cricket_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "supersportfootball",
+    "channel": [
+      "https://live_tv.starcdnup.com/SuperSport_Football_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "supersportgolf",
+    "channel": [
+      "https://live_tv.starcdnup.com/SuperSport_Golf_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "supersportrugby",
+    "channel": [
+      "https://live_tv.starcdnup.com/SuperSport_Rugby_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "supersporttennis",
+    "channel": [
+      "https://live_tv.starcdnup.com/SuperSport_Tennis_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "variety1",
+    "channel": [
+      "https://live_tv.starcdnup.com/Variety_1_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "variety2",
+    "channel": [
+      "https://live_tv.starcdnup.com/Variety_2_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "variety3",
+    "channel": [
+      "https://live_tv.starcdnup.com/Variety_3_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "variety4",
+    "channel": [
+      "https://live_tv.starcdnup.com/Variety_4_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "eurosport1",
+    "channel": [
+      "https://live_tv.starcdnup.com/Eurosport_1_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "eurosport2",
+    "channel": [
+      "https://live_tv.starcdnup.com/Eurosport_2_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "premiersports1",
+    "channel": [
+      "https://live_tv.starcdnup.com/Premier_Sports_1/index.m3u8"
+    ]
+  },
+  {
+    "id": "premiersports2",
+    "channel": [
+      "https://live_tv.starcdnup.com/Premier_Sports_2/index.m3u8"
+    ]
+  },
+  {
+    "id": "golfchannel",
+    "channel": [
+      "https://live_tv.starcdnup.com/Golf_Channel_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "mlbnetwork",
+    "channel": [
+      "https://live_tv.starcdnup.com/MLB_Network_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "nbatv",
+    "channel": [
+      "https://live_tv.starcdnup.com/NBA_TV_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "nflnetwork",
+    "channel": [
+      "https://live_tv.starcdnup.com/NFL_Network_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "nflredzone",
+    "channel": [
+      "https://live_tv.starcdnup.com/NFL_REDZONE_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "nhlnetwork",
+    "channel": [
+      "https://live_tv.starcdnup.com/NHL_Network_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "wwe",
+    "channel": [
+      "https://live_tv.starcdnup.com/WWE_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "willowcricket",
+    "channel": [
+      "https://live_tv.starcdnup.com/Willow_Cricket_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "willowextra",
+    "channel": [
+      "https://live_tv.starcdnup.com/Willow_Extra_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "worldfishingnetwork",
+    "channel": [
+      "https://live_tv.starcdnup.com/World_Fishing_Network_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "espn",
+    "channel": [
+      "https://live_tv.starcdnup.com/ESPN_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "espn2",
+    "channel": [
+      "https://live_tv.starcdnup.com/ESPN_2_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "espnnews",
+    "channel": [
+      "https://live_tv.starcdnup.com/ESPN_News_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "espnu",
+    "channel": [
+      "https://live_tv.starcdnup.com/ESPN_U_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "itv1",
+    "channel": [
+      "https://live_tv.starcdnup.com/ITV_1/index.m3u8"
+    ]
+  },
+  {
+    "id": "itv2",
+    "channel": [
+      "https://live_tv.starcdnup.com/ITV_2/index.m3u8"
+    ]
+  },
+  {
+    "id": "itv3",
+    "channel": [
+      "https://live_tv.starcdnup.com/ITV_3/index.m3u8"
+    ]
+  },
+  {
+    "id": "itv4",
+    "channel": [
+      "https://live_tv.starcdnup.com/ITV_4/index.m3u8"
+    ]
+  },
+  {
+    "id": "mutv",
+    "channel": [
+      "https://live_tv.starcdnup.com/MUTV_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "lfctv",
+    "channel": [
+      "https://live_tv.starcdnup.com/LFC_TV_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "foxnews",
+    "channel": [
+      "https://live_tv.starcdnup.com/FOX_NEWS_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "accnetwork",
+    "channel": [
+      "https://live_tv.starcdnup.com/ACC_Network_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "fightnetwork",
+    "channel": [
+      "https://live_tv.starcdnup.com/Fight_Network_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "cbssportsnetwork",
+    "channel": [
+      "https://live_tv.starcdnup.com/CBS_Sports_Network_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "cnbc",
+    "channel": [
+      "https://live_tv.starcdnup.com/CNBC_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "foxsports1",
+    "channel": [
+      "https://live_tv.starcdnup.com/Fox_Sports_1_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "foxsports2",
+    "channel": [
+      "https://live_tv.starcdnup.com/Fox_Sports_2_Live_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "natgeowildhd",
+    "channel": [
+      "https://live_tv.starcdnup.com/Nat_Geo_Wild_HD/index.m3u8"
+    ]
+  },
+  {
+    "id": "abcchannel",
+    "channel": [
+      "https://live_tv.starcdnup.com/ABC/index.m3u8"
+    ]
+  }
+]
