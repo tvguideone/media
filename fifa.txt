@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+www.plus.fifa.com	FALSE	/	TRUE	1752308391	_cnv_ses.214f	*
+www.plus.fifa.com	FALSE	/	TRUE	1786866591	_cnv_id.214f	530c44ca-bf59-4d14-9966-3486b137a827.1747899217.6.1752306591.1752124848.d72818ef-d48b-4801-98cb-ce964a97b360.99a4cc8f-93c6-4a62-837a-430a6685302a..
